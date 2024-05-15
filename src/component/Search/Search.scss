@@ -1,0 +1,29 @@
+.Search {
+    background: #f1957b;
+    padding: 1.5rem;
+    box-sizing: border-box;
+    width: 20%;
+
+    >input {
+        width: 100%;
+        padding: 0.8rem;
+        border: 0;
+        border-radius: 0.8rem;
+        box-sizing: border-box;
+    }
+
+    >p {
+        text-align: right;
+        color: white;
+        padding-bottom: 1rem;
+    }
+
+    .cities {
+        >div {
+            padding: 0.5rem;
+            background: white;
+            margin: 0.5rem 0;
+            border-radius: 0.5rem;
+        }
+    }
+}

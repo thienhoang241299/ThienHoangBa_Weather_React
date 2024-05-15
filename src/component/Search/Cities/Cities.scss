@@ -1,0 +1,18 @@
+.Cities {
+    >h4 {
+        padding: 0.2rem 0 1rem 0;
+    }
+
+    >p {
+        letter-spacing: 0.1rem;
+        padding: 0.2rem 0;
+
+        >span {
+            background: rgb(61, 61, 61);
+            border-radius: 1rem;
+            color: white;
+            font-size: 1rem;
+            padding: 0.2rem;
+        }
+    }
+}
